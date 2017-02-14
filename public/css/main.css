@@ -1,0 +1,23 @@
+body {
+  margin: 10px;
+}
+h2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+button {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center;
+}
+h1 {
+  align-items: center;
+  text-align: center;
+}
+.row {
+  display: flex;
+  align-items: center;
+}
